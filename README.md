@@ -2,10 +2,10 @@
 MAI
 
 #### Типы файлов в Linux
-1) Сокеты (s)
+1) Сокеты (s) :white_check_mark:
 2) Каталог (d) :white_check_mark:
 3) Символьное устройство (с)
-4) Блочное устройство (b)
+4) Блочное устройство (b) :white_check_mark:
 5) Именованный канал (p) :white_check_mark:
 6) Обычный файл (-) :white_check_mark:
 7) Символиеская ссылка (l) :white_check_mark:
