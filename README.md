@@ -72,4 +72,8 @@ telnet localhost 6666 // лупим в 6666 порт локалхоста
 ```
 
 #### Блочное и символьное устройство (b/c)
-sudo mknod chardevice b/c 1
+sudo mknod device b/c 1
+file devixe
+echo message > device
+cat dev
+rm -rf device
