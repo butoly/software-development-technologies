@@ -4,7 +4,7 @@ MAI
 #### Типы файлов в Linux
 1) Сокеты (s) :white_check_mark:
 2) Каталог (d) :white_check_mark:
-3) Символьное устройство (с)
+3) Символьное устройство (с) :white_check_mark:
 4) Блочное устройство (b) :white_check_mark:
 5) Именованный канал (p) :white_check_mark:
 6) Обычный файл (-) :white_check_mark:
